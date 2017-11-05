@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/club"
+        android:icon="@drawable/club"
+        android:title="@string/club"/>
+    <item
+        android:id="@+id/diamond"
+        android:icon="@drawable/diamond"
+        android:title="@string/diamond"/>
+    <item
+        android:id="@+id/spade"
+        android:icon="@drawable/spade"
+        android:title="@string/spade"/>
+    <item
+        android:id="@+id/heart"
+        android:icon="@drawable/heart"
+        android:title="@string/heart"/>
+</menu>
